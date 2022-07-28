@@ -8,7 +8,7 @@
 选取其精华，浓缩成此材质包  
 
 ## 修改
-> 目前最新的材质包版本是 **Version 1.0**
+> 目前最新的材质包版本是 [**Version 1.0**](https://github.com/HiPeach/Fantastic-Resourcepack/releases/tag/v1.0)
 
 - **字体**  
 中文字体更换为[**方正喵呜**](https://www.foundertype.com/index.php/FontInfo/index/id/184)  
